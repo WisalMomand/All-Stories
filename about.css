@@ -1,0 +1,46 @@
+.about-section {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-section h1, .about-section h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .about-section p {
+    font-size: 18px;
+    color: #666;
+    text-align: center;
+  }
+  
+  .creators {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .creators img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .creators p {
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    background: #eee;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  

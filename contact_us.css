@@ -1,0 +1,98 @@
+.contact-section {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .contact-section h1, .contact-section h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .contact-section p {
+    font-size: 18px;
+    color: #666;
+    text-align: center;
+  }
+  
+  .contact-form {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .contact-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-form label {
+    margin: 10px 0 5px;
+    font-size: 16px;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .contact-form button {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .contact-info {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+  }
+  
+  .social-media {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .social-media a {
+    margin: 0 10px;
+    display: inline-block;
+  }
+  
+  .social-media img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .faq {
+    margin-top: 40px;
+  }
+  
+  .faq h2 {
+    text-align: center;
+  }
+  
+  .faq-item {
+    margin: 20px 0;
+  }
+  
+  .faq-item h3 {
+    font-size: 20px;
+  }
+  
+  .faq-item p {
+    font-size: 16px;
+    color: #666;
+  }
+  
